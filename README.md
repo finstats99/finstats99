@@ -1,6 +1,6 @@
 # 👋 Hello, I'm jaewook!
 
-
+[![Gmail Badge](https://img.shields.io/badge/-finstats99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:finstats99@gmail.com)](mailto:finstats99@gmail.com)
 ---
 
 ### 🦾 Skills
