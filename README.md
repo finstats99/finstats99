@@ -27,11 +27,6 @@
 
 ---
 
-### 📊 Github Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=finstats99&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finstats99&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ### 📅 Contribution Graph
 ![GitHub 라이트 모드 활동 그래프](https://github-readme-activity-graph.vercel.app/graph?username=finstats99&theme=github-compact)
