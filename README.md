@@ -1,17 +1,43 @@
-## Hi there 👋
+# 👋 Hello, I'm [finstats99]!
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Creative%20Developer&fontSize=70" />
+</p>
+
+
+---
 
 ### 🦾 Skills
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-
+<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 
 **🛠️ Infra and Tools**
+<p>
+  <img src="https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+</p>
 
-![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
-![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)<br>
-![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+---
 
+### 📊 Github Stats
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[finstats99]&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[finstats99]&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+### 📅 Contribution Graph
+![GitHub 라이트 모드 활동 그래프](https://github-readme-activity-graph.vercel.app/graph?username=[finstats99]&theme=github-compact)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[finstats99]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</p>
