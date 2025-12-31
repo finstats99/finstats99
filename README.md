@@ -32,3 +32,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=finstats99&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
+
+### Projects
+| 제목 | 설명 | 기술 스택 | 이미지 | 깃헙 | 링크 |
+| --- | --- | --- | --- | --- | --- |
+|DL prediction|Korail demand predict project. Use TimeSeries DL models from AutoGluon, Nixtla|Python| | | |
