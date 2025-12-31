@@ -1,8 +1,4 @@
-# 👋 Hello, I'm finstats99!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Creative%20Developer&fontSize=70" />
-</p>
+# 👋 Hello, I'm jaewook!
 
 
 ---
