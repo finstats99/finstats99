@@ -1,11 +1,17 @@
 # 👋 Hello, I'm jaewook!
 
+![coding cat](https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif)
+
 [![Gmail Badge](https://img.shields.io/badge/-finstats99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:finstats99@gmail.com)](mailto:finstats99@gmail.com)
+
+
 ---
 
 ### 🦾 Skills
 <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
 
 **🛠️ Infra and Tools**
 <p>
@@ -33,7 +39,9 @@
   <img src="https://komarev.com/ghpvc/?username=finstats99&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
 
-### Projects
-| 제목 | 설명 | 기술 스택 | 이미지 | 깃헙 | 링크 |
-| --- | --- | --- | --- | --- | --- |
-|DL prediction|Korail demand predict project. Use TimeSeries DL models from AutoGluon, Nixtla|Python| | | |
+### 🎯Projects
+| 제목 | 설명 | 기술 스택 |
+| --- | --- | --- |
+|TS DL prediction|Korail demand predict project. Use TimeSeries DL models from AutoGluon, Nixtla|<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/><img src="https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white"/>|
+|Credit Classification(CSS modeling)|Statistical feature selection, Used ensemble techniques with ML models|<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white"/>|
+|Writing a research paper|Lag Selection in Heterogeneous AutoRegressive model, developed the dynamic lag structure of the HAR model|<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>|
