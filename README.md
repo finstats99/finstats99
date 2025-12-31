@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [finstats99]!
+# 👋 Hello, I'm finstats99!
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Creative%20Developer&fontSize=70" />
@@ -29,15 +29,15 @@
 
 ### 📊 Github Stats
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[finstats99]&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[finstats99]&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=finstats99&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finstats99&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ### 📅 Contribution Graph
-![GitHub 라이트 모드 활동 그래프](https://github-readme-activity-graph.vercel.app/graph?username=[finstats99]&theme=github-compact)
+![GitHub 라이트 모드 활동 그래프](https://github-readme-activity-graph.vercel.app/graph?username=finstats99&theme=github-compact)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[finstats99]&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=finstats99&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </p>
