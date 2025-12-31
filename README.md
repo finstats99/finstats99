@@ -8,9 +8,12 @@
 ---
 
 ### 🦾 Skills
-<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<p>
+  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/overleaf-47A141.svg?&style=for-the-badge&logo=overleaf&logoColor=white"/>
+</p>
 
 
 **🛠️ Infra and Tools**
@@ -25,6 +28,7 @@
   <img src="https://img.shields.io/badge/rstudio-75AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src=https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white/>
 </p>
 
 ---
@@ -44,4 +48,4 @@
 | --- | --- | --- |
 |TS DL prediction|Korail demand predict project. Use TimeSeries DL models from AutoGluon, Nixtla|<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/><img src="https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white"/>|
 |Credit Classification(CSS modeling)|Statistical feature selection, Used ensemble techniques with ML models|<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white"/>|
-|Writing a research paper|Lag Selection in Heterogeneous AutoRegressive model, developed the dynamic lag structure of the HAR model|<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>|
+|Writing a research paper|Lag Selection in Heterogeneous AutoRegressive model, developed the dynamic lag structure of the HAR model|<img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/><img src="https://img.shields.io/badge/overleaf-47A141.svg?&style=for-the-badge&logo=overleaf&logoColor=white"/>|
